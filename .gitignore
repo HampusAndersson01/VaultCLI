@@ -1,0 +1,52 @@
+# .NET Core
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+*.user
+*.suo
+*.sln.docstates
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+ipch/
+obj/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Ll][Oo][Gg][Ss]/
+[Tt]humbs.db
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
+[Nn]ode[Mm]odules/
+[Tt]emporaryGeneratedFile_*.cs
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+*.settings
+*.vstemplate
+*.vspx
+*.dotCover
+*.resharper
+*.sln.ide
+*.sln.dotsettings.user
+*.sln.docstates.user
+
+# Git
+.env
+
+# Other
+passwords.txt
