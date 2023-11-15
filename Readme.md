@@ -72,10 +72,6 @@ VaultCLI.Tests contains unit tests for the VaultCLI project.
 - Ensure your test environment is configured correctly.
 - Review test cases and adapt as needed for your specific implementation.
 
-### Author
-
-Hampus Andersson
-
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
